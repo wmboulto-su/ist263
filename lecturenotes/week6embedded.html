@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+   <!-- this is an embedded style sheet-->
+   <style>
+    /* grouped element selector */
+        p, h1 {
+            color:teal;
+            font-family:Arial, Helvetica, sans-serif;
+            font-size: 1.5em; /*1.5em means 150% */
+            font-weight: bolder;
+        }
+        /* descendant selectors pick an element inside another element */ 
+        p a {
+            color:orange;
+        }
+        #firstbullet {
+            color:crimson;
+        }
+        .pinktext{
+            color:pink;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="pinktext">Week 6 CSS</h1>
+    <p>Lorem <a href="http://www.ebay.com">ipsum</a>dolor sit amet, consectetur adipisicing elit. Fugiat nam labore sint atque, reiciendis eum officia, culpa libero, sapiente voluptatem sit excepturi. Delectus placeat cupiditate nemo vitae labore aperiam magni?</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illum mollitia explicabo quam velit ex debitis similique laboriosam id est ab numquam, necessitatibus deleniti harum aliquid repudiandae nisi voluptates eius. Delectus?</p>
+    <ul>
+        <li id="firstbullet"><a href="https://www.Amazon.com">Amazon</a></li>
+        <li><a href="https://www.google.com" class="pinktext">Google</a></li>
+    </ul>
+</body>
+</html>

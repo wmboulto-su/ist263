@@ -1,0 +1,26 @@
+body {
+    background-color: #1C6758;
+}
+h1, h2, h3 {
+    color: #EEF2E6;
+}
+p, ul, tr {
+    color: #D6CDA4;
+}
+a:visited {
+    color: #DD5353;
+}
+nav{
+    background-color: #C1D5A4;
+    padding: 10px;
+    margin: 10px; 
+}
+nav a{
+    color: #C1D5A4; 
+}
+nav a:hover {
+background-color: #1C6758;
+}
+nav{
+    margin-bottom: 30px;
+}

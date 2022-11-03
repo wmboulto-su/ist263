@@ -1,0 +1,48 @@
+body {
+    background-color: #1C6758;
+}
+h1, h2, h3 {
+    color: #EEF2E6;
+}
+p, ul, tr {
+    color: #D6CDA4;
+}
+a:visited {
+    color: #DD5353;
+}
+nav{
+    background-color: #1f3103;
+    padding: 10px;
+    margin: 10px;
+}
+nav a{
+    color: #C1D5A4; 
+}
+nav a:hover {
+background-color: #3dffd8;
+}
+nav{
+    margin-bottom: 30px;
+}
+.quote {
+    float: right;
+}
+.picture {
+    max-width: 100%;
+}
+
+.row1, .row2 {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+.nav {
+    max-width: 100%;
+}
+@media only screen and (max-width: 600px) {
+    span {display: none;}
+
+}
+@media only screen and (min-width: 601px) {
+
+}

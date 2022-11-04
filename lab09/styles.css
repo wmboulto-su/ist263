@@ -30,3 +30,20 @@ nav{
 .evenrow {
     background-color: #00008B;
 }
+.box1{
+    display: flex;
+    justify-content: space-around;
+}
+.box2 {
+    display: flex;
+    background-color: yellow;
+    padding: 20px;
+    margin: 20px;
+    flex: 1;
+    
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    flex: 3;
+}

@@ -4,6 +4,12 @@ body {
 h1, h2, h3 {
     color: #EEF2E6;
 }
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+}
 p, ul, tr {
     color: #D6CDA4;
 }
@@ -41,8 +47,23 @@ nav{
 }
 @media only screen and (max-width: 600px) {
     span {display: none;}
+    nav a {display: block;}
 
 }
-@media only screen and (min-width: 601px) {
-
+.box1{
+    display: flex;
+    justify-content: space-around;
+}
+.box2 {
+    display: flex;
+    background-color: yellow;
+    padding: 20px;
+    margin: 20px;
+    flex: 1;
+    
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    flex: 3;
 }

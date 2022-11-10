@@ -56,7 +56,7 @@ nav{
 }
 .box2 {
     display: flex;
-    background-color: yellow;
+    background-color: rgb(161, 243, 192);
     padding: 20px;
     margin: 20px;
     flex: 1;

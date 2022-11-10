@@ -10,7 +10,7 @@ h1 {
 p {
     text-align: center;
 }
-p, ul, tr {
+p, ul, tr, span {
     color: #e8ee8d;
 }
 a:visited {

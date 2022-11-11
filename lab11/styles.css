@@ -11,7 +11,7 @@ h1 {
 p {
     text-align: center;
 }
-p, ul, tr, span, label, a {
+p, ul, tr, span, label, a:link {
     color: #e8ee8d;
 }
 

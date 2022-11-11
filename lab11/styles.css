@@ -66,4 +66,5 @@ nav{
     display: flex;
     justify-content: space-between;
     flex: 3;
+    color: white;
 }

@@ -11,9 +11,14 @@ h1 {
 p {
     text-align: center;
 }
-p, ul, tr, span, label, a {
+p, ul, tr, span, label {
     color: #e8ee8d;
 }
+
+a:link {
+    color: #e8ee8d;
+}
+
 a:visited {
     color: #DD5353;
 }

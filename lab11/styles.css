@@ -68,3 +68,6 @@ nav{
     flex: 3;
     color: white;
 }
+input [type="text"] {
+    color: #e8ee8d;
+}

@@ -11,7 +11,7 @@ h1 {
 p {
     text-align: center;
 }
-p, ul, tr, span {
+p, ul, tr, span, label {
     color: #e8ee8d;
 }
 a:visited {
@@ -69,6 +69,4 @@ nav{
     flex: 3;
     color: white;
 }
-label {
-    color: #e8ee8d;
-}
+

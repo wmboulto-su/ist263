@@ -1,0 +1,40 @@
+body {
+    background-color: #558000;
+}
+.flexbox1 {
+    display: flex;
+    background-color:  #aaff00;
+    justify-content: space-around;
+    border-radius: 25px;
+    padding: 20px;
+    width: auto;
+    height: 50px;
+}
+.flexbox2 {
+    display: flex;
+    background-color:  #ffffff;
+    justify-content: center;
+    border-radius: 25px;
+    padding: 20px;
+    width: auto;
+    height: 30px;
+}
+.flexbox3 {
+    display: flex;
+    background-color:  #aaff00;
+    justify-content: space-around;
+    border-radius: 25px;
+    padding: 20px;
+    width: auto;
+    height: 300px;
+}
+.flexbox4 {
+    display: flex;
+    background-color: #ffffff;
+    align-content: space-around;
+    justify-content: center;
+    border-radius: 25px;
+    padding: 20px;
+    width: auto;
+    height: 30px;
+}

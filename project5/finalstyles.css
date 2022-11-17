@@ -9,6 +9,7 @@ body {
     padding: 20px;
     width: auto;
     height: 50px;
+    margin: 20px;
 }
 .flexbox2 {
     display: flex;
@@ -18,6 +19,7 @@ body {
     padding: 20px;
     width: auto;
     height: 30px;
+    margin: 20px;
 }
 .flexbox3 {
     display: flex;
@@ -27,6 +29,7 @@ body {
     padding: 20px;
     width: auto;
     height: 300px;
+    margin: 20px;
 }
 .flexbox4 {
     display: flex;

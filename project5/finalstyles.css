@@ -28,7 +28,7 @@ body {
     border-radius: 25px;
     padding: 20px;
     width: auto;
-    height: 300px;
+    height: 305px;
     margin: 20px;
 }
 .options, .dispensaries {
@@ -61,7 +61,7 @@ label {
     text-align: center;
 }
 ul.bullets {
-    color: #ffffff;
+    color: #ffffff ;
     display: inline-block;
     text-align: left;
 }

@@ -61,6 +61,7 @@ label {
     text-align: center;
 }
 ul.bullets {
+    color: #ffffff;
     display: inline-block;
     text-align: left;
 }

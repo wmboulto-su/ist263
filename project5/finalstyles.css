@@ -31,17 +31,6 @@ body {
     height: 300px;
     margin: 20px;
 }
-.flexbox4 {
-    display: flex;
-    background-color: #ffffff;
-    align-content: space-around;
-    justify-content: center;
-    border-radius: 25px;
-    padding: 20px;
-    width: auto;
-    height: 30px;
-    margin: 20px;
-}
 .options, .dispensaries {
     text-align: center;
 }
@@ -67,4 +56,11 @@ body {
 }
 label {
     color: #ffffff;  
+}
+.retail {
+    text-align: center;
+}
+ul.bullets {
+    display: inline-block;
+    text-align: left;
 }

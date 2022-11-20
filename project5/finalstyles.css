@@ -65,3 +65,9 @@ ul.bullets {
     display: inline-block;
     text-align: left;
 }
+.types {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: #ffffff;
+}

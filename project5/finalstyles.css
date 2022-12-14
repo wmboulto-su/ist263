@@ -93,3 +93,7 @@ ul.bullets {
     font-size: 20px;
     text-align: center;
 }
+
+ul {
+    column-count: 3;
+}

@@ -103,7 +103,11 @@ ul {
 }
 .strain1, .strain2, .strain3, .strain4, .strain5, .strain6 {
     display: block;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+.shops, .shopbutton {
+    text-align: center;
 }

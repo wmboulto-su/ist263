@@ -1,5 +1,5 @@
 body {
-    background-color: #558000;
+    background-color: #ffffff;
 }
 .flexbox1 {
     display: flex;
@@ -55,7 +55,7 @@ body {
     color:   #ffffff;
 }
 label {
-    color: #ffffff;  
+    color: #000000;  
 }
 .retail {
     text-align: center;
@@ -80,6 +80,16 @@ ul.bullets {
       flex-direction: column;
     }
   }
-  h1, h2, h3, h4, h5 {
-    font-family: Rubik;
-  }
+.container, .container1, .container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.text {
+    font-size: 35px;
+    padding-left: 20px;
+}
+.resources, .outsidelinks {
+    font-size: 20px;
+    text-align: center;
+}

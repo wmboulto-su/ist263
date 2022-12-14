@@ -97,3 +97,13 @@ ul.bullets {
 ul {
     column-count: 4;
 }
+.results {
+    text-align: center;
+    padding: 5%;
+}
+.strain1, .strain2, .strain3, .strain4, .strain5, .strain6 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

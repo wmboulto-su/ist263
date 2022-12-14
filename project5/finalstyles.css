@@ -69,7 +69,7 @@ ul.bullets {
     display: flex;
     justify-content: center;
     justify-content: space-around;
-    color: #ffffff;
+    color: #000000;
 }
 .flexbox1, .flexbox2, .flexbox3, .flexbox5, .flexbox6 {
     display: flex;

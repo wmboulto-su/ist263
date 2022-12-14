@@ -52,7 +52,7 @@ body {
     margin: 20px;
 }
 .customerservice {
-    color:   #ffffff;
+    color:   #000000;
 }
 label {
     color: #000000;  
@@ -61,7 +61,7 @@ label {
     text-align: center;
 }
 ul.bullets {
-    color: #ffffff ;
+    color: #000000;
     display: inline-block;
     text-align: left;
 }

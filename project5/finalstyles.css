@@ -13,13 +13,13 @@ body {
 }
 .flexbox2 {
     display: flex;
-    background-color:  #ffffff;
     justify-content: center;
     border-radius: 25px;
     padding: 20px;
     width: auto;
     height: 30px;
     margin: 20px;
+    font-size: 50px;
 }
 .flexbox3 {
     display: flex;

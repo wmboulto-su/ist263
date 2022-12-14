@@ -33,6 +33,7 @@ body {
 }
 .options, .dispensaries {
     text-align: center;
+    padding: 2%;
 }
 .flexbox5 {
     display: flex;
@@ -53,6 +54,7 @@ body {
 }
 .customerservice {
     color:   #000000;
+    text-align: center;
 }
 label {
     color: #000000;  
@@ -63,11 +65,11 @@ label {
 ul.bullets {
     color: #000000;
     display: inline-block;
-    text-align: left;
+    text-align: center;
 }
 .types {
     display: flex;
-    justify-content: center;
+    text-align: center;
     justify-content: space-around;
     color: #000000;
 }

@@ -113,3 +113,17 @@ ul {
 .shops, .shopbutton {
     text-align: center;
 }
+.welcome {
+    display: flex;
+    justify-content: center;
+}
+.skip {
+    padding: 5px;
+    border: 1px solid #000000;
+    position: absolute;
+    top: auto;
+    left: -999px;
+}
+.skip:focus {
+    left: 10px;
+}
